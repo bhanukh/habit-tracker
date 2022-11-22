@@ -1,3 +1,5 @@
+Hosting:https://ornate-liger-81650a.netlify.app/
+
 # Getting Started with Create React App
 
 First of all create react project using create-react-app app_name
